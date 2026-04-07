@@ -4,6 +4,8 @@ A ScriptRunner Groovy script that automatically converts broken **Lozenge macros
 
 ---
 
+> **Disclaimer:** This script is provided as-is with no warranty or guarantee. Always back up your pages and test in a non-production space before running against live content. The author and The Adaptavist Group accept no responsibility for any data loss or unintended changes.
+
 ## The Problem
 
 After migrating from Confluence Data Center to Cloud using JCMA, pages that used the Lozenge macro are broken:
